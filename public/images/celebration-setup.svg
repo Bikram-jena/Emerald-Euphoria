@@ -1,0 +1,18 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#120D18"/>
+  <rect x="0" y="620" width="1200" height="280" fill="#211824"/>
+  <circle cx="330" cy="240" r="38" fill="#D95C72"/>
+  <circle cx="410" cy="200" r="34" fill="#D9B55C"/>
+  <circle cx="488" cy="236" r="40" fill="#7CC5A8"/>
+  <circle cx="874" cy="226" r="34" fill="#D95C72"/>
+  <circle cx="952" cy="190" r="30" fill="#D9B55C"/>
+  <circle cx="1020" cy="228" r="36" fill="#7CC5A8"/>
+  <path d="M370 260C440 360 530 420 646 468" stroke="#D9B55C" stroke-width="5" stroke-dasharray="12 14"/>
+  <path d="M962 246C890 356 814 422 702 468" stroke="#D9B55C" stroke-width="5" stroke-dasharray="12 14"/>
+  <rect x="286" y="360" width="628" height="272" rx="30" fill="#F9F7F1"/>
+  <rect x="286" y="328" width="628" height="72" rx="18" fill="#5A3648"/>
+  <path d="M524 440C554 394 614 398 642 440C670 398 730 394 760 440C760 518 642 586 642 586C642 586 524 518 524 440Z" fill="#D95C72"/>
+  <circle cx="398" cy="516" r="34" fill="#F4D15B"/>
+  <circle cx="814" cy="516" r="34" fill="#F4D15B"/>
+  <text x="324" y="786" fill="#D9B55C" font-family="Georgia, serif" font-size="46">Birthday and anniversary decor</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="44" fill="#0B1715"/>
+  <circle cx="128" cy="108" r="78" stroke="#D9B55C" stroke-width="6" opacity="0.9"/>
+  <path d="M84 62H172V170H84V62Z" stroke="#D9B55C" stroke-width="6"/>
+  <path d="M62 170H194" stroke="#D9B55C" stroke-width="6"/>
+  <path d="M74 170V192M100 170V192M128 170V192M156 170V192M182 170V192" stroke="#D9B55C" stroke-width="6"/>
+  <path d="M84 86H172M84 116H172M84 146H172" stroke="#D9B55C" stroke-width="4"/>
+  <path d="M102 62V170M154 62V170" stroke="#D9B55C" stroke-width="4"/>
+  <rect x="96" y="74" width="22" height="18" stroke="#D9B55C" stroke-width="4"/>
+  <rect x="138" y="74" width="22" height="18" stroke="#D9B55C" stroke-width="4"/>
+  <rect x="96" y="104" width="22" height="18" stroke="#D9B55C" stroke-width="4"/>
+  <rect x="138" y="104" width="22" height="18" stroke="#D9B55C" stroke-width="4"/>
+  <rect x="96" y="134" width="22" height="18" stroke="#D9B55C" stroke-width="4"/>
+  <rect x="138" y="134" width="22" height="18" stroke="#D9B55C" stroke-width="4"/>
+</svg>
