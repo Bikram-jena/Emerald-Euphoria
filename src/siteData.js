@@ -7,9 +7,9 @@ export const siteData = {
     logo: '/hotel-logo.svg'
   },
   contact: {
-    phoneDisplay: '+91 9313 9313 93',
-    phoneTel: '+919313931393',
-    whatsappNumber: '919313931393',
+    phoneDisplay: '+91 90880 48804',
+    phoneTel: '+919088048804',
+    whatsappNumber: '919088048804',
     address:
       'Plot No HIG 84, Lane 9, Sector 5, Ashagiri Lane, Neeladri Vihar, Bhubaneswar, Odisha 751021',
     mapsLink:
